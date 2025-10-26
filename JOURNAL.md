@@ -6,12 +6,15 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Weather Sensor Box**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/604).
-
-
 ## 10/17/2025 - gathered a materials list  
 
 We need an ESP32 board, a BME280 sensor, a solar panel + battery set, breadboard + wires for prototyping, and a proper box for all of this. Considering adding more sensors like a camera, etc. Currently researching how to get an ESP32 to host webserver. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MywicHVyIjoiYmxvYl9pZCJ9fQ==--f54a612f8f1453403689cf02d5b23a3c8897a1c5/image.png)
+  
+
+## 10/26/2025 - CADed the box and Xiao casing  
+
+I CADed the box that goes around all the internal circuit components, as well as the casing for the Xiao sense ESP32 board, which includes a heatsink holder, since the Xiao will get hot under the heavy AI loads we're going to put it through.
+![Heatsink Holder Drawing 1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc5NywicHVyIjoiYmxvYl9pZCJ9fQ==--1b8af50619b9725491a3f397fc0b182c9ad04261/Heatsink%20Holder%20Drawing%201.jpeg)
+![Xiao Casing Drawing 1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5ec2fbd273ade34d98042d0ba5d82d78a135f0a/Xiao%20Casing%20Drawing%201.jpeg)![Lid Drawing 1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4e11c6f23e13b28c194a446b81abf1f86dd58a33/Lid%20Drawing%201.jpeg)![Box Drawing 1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--14a7e1602c57c62faf5fe80464c6485439d6ff11/Box%20Drawing%201.jpeg)
   
 
